@@ -1,4 +1,4 @@
-# port2gal
+# transliter_gz_pt
 Transliterador de português para galego (RAG-ILG)
 
 * Script baseado no trabalho de Alberto Garcia: http://por2gal.elpiso.org/
