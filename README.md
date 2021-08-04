@@ -1,9 +1,7 @@
 # transliter_gz_pt
-Transliterador de português para galego (RAG-ILG)
+Transliterador de português para galego (RAG-ILG ou AGAL)
 
-* Script baseado no trabalho de Alberto Garcia: http://por2gal.elpiso.org/
-* Modificações feitas por Paulo Gamallo
-* Este script foi criado em 2004 e revisado recentemente para o seu uso com a codificação UTF8.
+* Scripts baseados no trabalho de Alberto Garcia: http://por2gal.elpiso.org/
 
 ## Requerimentos:
  * Bash e Perl
